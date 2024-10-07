@@ -52,8 +52,8 @@ Using the DL model predict for some random inputs
 
 ## PROGRAM
 
-### Name: PRAVINRAJJ G.K
-### Register Number: 212222240080
+### Name: sarveshkaran V.K
+### Register Number: 212221230089
 
 ```py
 import pandas as pd
